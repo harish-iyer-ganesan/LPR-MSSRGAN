@@ -1,2 +1,2 @@
 # LPR-MSSRGAN
-SINGLE IMAGE SUPER RESOLUTION USING MID-SCALED SRGAN
+Single Image Super Resolution using Mid-Scaled SRGAN for License Plate Recognition
